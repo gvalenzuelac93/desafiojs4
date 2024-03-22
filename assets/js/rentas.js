@@ -35,7 +35,7 @@ const propiedades_renta = [
     {    
     nombre: 'Condominio moderno en zona urbana',
     src: 'https://images.unsplash.com/photo-1512845296467-183ccf124347?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    descripcion: 'Este elegante condominio rdt´s ubicado al sur de la capital',
+    descripcion: 'Este elegante condominio está ubicado al sur de la capital',
     ubicacion: '123 Main Street, Anytown, CA 91234',
     habitaciones: 3,
     baños: 1,
