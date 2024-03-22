@@ -28,19 +28,19 @@ const propiedades_renta = [
     ubicacion: '123 Main Street, Anytown, CA 91234',
     habitaciones: 2,
     baños: 2,
-    costo: 2200,
+    costo: 3200,
     smoke: false,
     pets: false
     },
     {    
-    nombre: 'Condominio moderno en zona residencial',
-    src: 'https://images.unsplash.com/photo-1567496898669-ee935f5f647a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbmRvfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60',
-    descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial',
+    nombre: 'Condominio moderno en zona urbana',
+    src: 'https://images.unsplash.com/photo-1512845296467-183ccf124347?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    descripcion: 'Este elegante condominio rdt´s ubicado al sur de la capital',
     ubicacion: '123 Main Street, Anytown, CA 91234',
-    habitaciones: 2,
-    baños: 2,
+    habitaciones: 3,
+    baños: 1,
     costo: 2200,
-    smoke: false,
+    smoke: true,
     pets: false
     }
     ]

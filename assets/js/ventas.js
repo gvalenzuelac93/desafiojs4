@@ -33,15 +33,15 @@ const propiedades_venta = [
     pets: true
     },
     {    
-    nombre: 'Penthouse de lujo con terraza panorámica',
-    src: 'https://resizer.glanacion.com/resizer/fhK-tSVag_8UGJjPMgWrspslPoU=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CUXVMXQE4JD5XIXX4X3PDZAVMY.jpg',
-    descripcion: 'Este penthouse de lujo ofrece una terraza panorámica convistas espectaculares',
+    nombre: 'Departamento en zona urbana',
+    src: 'https://images.unsplash.com/photo-1586381084141-6ab5237379bd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    descripcion: 'Este departamento se encuentra en la zona norponiente de la capital',
     ubicacion: ' 567 Skyline Avenue, Skyview City, CA 56789',
-    habitaciones: 3,
-    baños: 3,
-    costo: 4500,
-    smoke: false,
-    pets: true
+    habitaciones: 2,
+    baños: 1,
+    costo: 2500,
+    smoke: true,
+    pets: false
     }
     ]
     var limiteDptos = 0
